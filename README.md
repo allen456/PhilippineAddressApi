@@ -1,4 +1,4 @@
-# API for Philippine Regions, Province/Districts, Cities/Municipalities and Barangays
+# API for PSGC Code, Philippine Regions, Province/Districts, Cities/Municipalities and Barangays
 
 API to display all Philippine Regions, Province/Districts, Cities/Municipalities and Barangays 
 
