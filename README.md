@@ -11,7 +11,7 @@ built using .net core 3.1 web-api with entity framework and swagger
 
 -----------------
 
-## JSfiddle, swagger document and a live demo
+## JSfiddle, swagger document and a demo
 ```
 https://jsfiddle.net/3a7Lkdfz
 ```
@@ -21,6 +21,8 @@ https://phaddressapi.sermeno.xyz/swagger/index.html
 ```
 https://phaddressapi.sermeno.xyz/api/regions
 ```
+Don't use my demo on production environment. I might turn it off if it consumes too much resources.
+
 -----------------
 ## How Access Swagger Document
 
