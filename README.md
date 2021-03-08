@@ -11,7 +11,7 @@ built using .net core 3.1 web-api with entity framework and swagger
 
 -----------------
 
-## JSFidddle, swagger document and a live demo
+## JSfiddle, swagger document and a live demo
 ```
 https://jsfiddle.net/3a7Lkdfz
 ```
@@ -30,13 +30,13 @@ https://phaddressapi.sermeno.xyz/api/regions
 Check swagger for all available endpoints and operation paramenters
 
 ------------------
-## run using docker
-change the port 5002 variable if neccessary
+## Run using docker
+change the port 5002 if neccessary
 ```
 docker run -p 5002:80 -d --restart unless-stopped allen456/phaddressapi:latest
 ```
-
 -----------------
+
 # Endpoints
 Check swagger document for more info
 ## Regions
@@ -68,7 +68,7 @@ Data | Endpoint
 Import | ```api/import``` 
 Export | ```api/export```
 
-Import CSV on a multipart/form-data with a field 'psgc' with the following format
+Import CSV on a multipart/form-data with a field 'psgc' using the following format
 - psgc code
 - name
 - old name
