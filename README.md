@@ -24,6 +24,7 @@ https://phaddressapi.sermeno.xyz/api/regions
 Don't use my demo on production environment. I might turn it off if it consumes too much resources.
 
 -----------------
+
 ## How Access Swagger Document
 
 ```
@@ -32,11 +33,22 @@ Don't use my demo on production environment. I might turn it off if it consumes 
 Check swagger for all available endpoints and operation paramenters
 
 ------------------
+
 ## Run using docker
 change the port 5002 if neccessary
 ```
 docker run -p 5002:80 -d --restart unless-stopped allen456/phaddressapi:latest
 ```
+open localhost:5002
+
+-----------------
+
+## Run using .net core 3.1 sdk and vscode
+
+```
+dotnet run
+```
+
 -----------------
 
 # Endpoints
@@ -112,3 +124,5 @@ Export returns the following schema:
   }
 ]
 ```
+
+-----------------
