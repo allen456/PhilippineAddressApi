@@ -7,7 +7,7 @@ built using .net core 3.1 web-api with entity framework and swagger
 [PSGC Publication September 2020](https://psa.gov.ph/sites/default/files/attachments/ird/specialrelease/PSGC%203Q%202020%20Publication.xlsx)
 
 ### Initial Seed CSV Data
-[PSGC_3Q_2020_Publication.csv](.PSGC_3Q_2020_Publication.csv)
+[PSGC_3Q_2020_Publication.csv](./PSGC_3Q_2020_Publication.csv)
 
 -----------------
 
